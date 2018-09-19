@@ -5,6 +5,7 @@ Using:
  - react-redux
  - redux-form
  - react.router 
+ - axios (get, post, delete )requests
 
 Interested in learning more ? [Redux](https://redux.js.org/) [React](https://reactjs.org/docs/getting-started.html)
 
